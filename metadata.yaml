@@ -1,5 +1,8 @@
 _repo: Field-artillery-materiel_71954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71954-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzmaurice-Kelly, James
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6514
     wikipedia: https://en.wikipedia.org/wiki/James_Fitzmaurice-Kelly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71954#Field-artillery-materiel
 gutenberg_issued: '2023-10-25'
 identifiers:
   gutenberg: '71954'
